@@ -1,0 +1,6 @@
+/참고/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
